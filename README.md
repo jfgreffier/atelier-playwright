@@ -10,7 +10,7 @@ Dans cette session, vous allez apprendre :
 - Impressionner vos collègues avec des tests rapides, sur les familles de navigateur les plus populaire
 
 ## Plan
-1. Introduction
+1. [Introduction](introduction/)
 2. Installation et premier test
 3. Des locators robustes et efficaces
 4. Codegen et extension VSCode
