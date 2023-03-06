@@ -16,3 +16,5 @@ Dans cette session, vous allez apprendre :
 4. Codegen et extension VSCode
 6. Web-first assertions
 7. Debugger
+
+[Ressources en français](ressources/README.md)
