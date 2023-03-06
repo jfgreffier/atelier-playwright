@@ -10,8 +10,8 @@ Dans cette session, vous allez apprendre :
 - Impressionner vos collègues avec des tests rapides, sur les familles de navigateur les plus populaires
 
 ## Plan
-1. [Introduction](introduction/)
-2. Installation et premier test
+1. [Introduction](introduction/README.md)
+2. [Installation et premier test](install/README.md)
 3. Des locators robustes et efficaces
 4. Codegen et extension VSCode
 6. Web-first assertions
