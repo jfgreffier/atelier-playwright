@@ -6,8 +6,8 @@ Venez vous réconcilier avec les tests sur navigateurs grâce à Playwright ! Un
 Dans cette session, vous allez apprendre :
 - À installer et configurer Playwright Test
 - Faire des sélecteurs pertinents et robustes qui ne se basent pas sur l'implémentation
-- Créer votre premier test en quelques clicks avec Codegen
-- Impressionner vos collègues avec des tests rapides, sur les familles de navigateur les plus populaire
+- Créer votre premier test en quelques clicks avec le générateur de code intégré 
+- Impressionner vos collègues avec des tests rapides, sur les familles de navigateur les plus populaires
 
 ## Plan
 1. [Introduction](introduction/)
