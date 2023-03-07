@@ -12,7 +12,7 @@ Dans cette session, vous allez apprendre :
 ## Plan
 1. [Introduction](introduction/README.md)
 1. [Installation et premier test](install/README.md)
-1. Des locators robustes et efficaces
+1. [Des locators robustes et efficaces](locators/README.md)
 1. Codegen et extension VSCode
 1. Web-first assertions
 1. Debugger
