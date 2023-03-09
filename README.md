@@ -15,6 +15,6 @@ Dans cette session, vous allez apprendre :
 1. [Des locators robustes et efficaces](locators/README.md)
 1. [Codegen et extension VSCode](codegen/README.md)
 1. Web-first assertions
-1. Debugger
+1. [Débugger](débugger/README.md)
 
 [Ressources en français](ressources/README.md)
