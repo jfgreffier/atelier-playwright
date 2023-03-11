@@ -6,6 +6,7 @@ En vous servant de la doc, faites un test qui vérifie que :
 1. `true` est vrai
 2. `0.1 + 0.2` est égal à `0.3`
 3. `"$ 128"` correspond au format de prix attendu ($, puis espace, puis le prix) et le prix est un nombre, supérieur à 100
+
 ## Web-first assertions
 Les assertions orientées web (Web-first assertions) sont spécifiquement faite pour tester le DOM. Elles sont conçues avec des notions de HTML et CSS en tête. De plus, il y a un mécanisme d'auto-retry.
 

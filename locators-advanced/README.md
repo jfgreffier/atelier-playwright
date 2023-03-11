@@ -1,13 +1,13 @@
 # Locators avancés
 Créons un test avec l'aide de Codegen.
 1. Allez sur le site <https://bit-shoe-store.netlify.app>
-1. Dans les chaussures pour femmes
-1. A la fin de la liste, il y a des des chaussures "Doc Martins"
-1. Cliquez pour accéder à la page des détails du produit
-1. Sélectionnez la taille 39 et la couleur noire
-1. Ajoutez les chaussures au panier
-1. Accédez à la page du panier
-1. Vérifiez que le prix total est de 280
+2. Dans les chaussures pour femmes
+3. A la fin de la liste, il y a des des chaussures "Doc Martins"
+4. Cliquez pour accéder à la page des détails du produit
+5. Sélectionnez la taille 39 et la couleur noire
+6. Ajoutez les chaussures au panier
+7. Accédez à la page du panier
+8. Vérifiez que le prix total est de 280
 
 > ℹ️ **note**  
 > C'est facile de cliquer sur élément pour avoir le Locator et ensuite écrire une assertion s'en servant
