@@ -14,7 +14,7 @@ Dans cette session, vous allez apprendre :
 1. [Installation et premier test](install/README.md)
 1. [Des locators robustes et efficaces](locators/README.md)
 1. [Codegen et extension VSCode](codegen/README.md)
-1. Web-first assertions
+1. [Assertions](assertions/README.md)
 1. [Débugger](débugger/README.md)
 1. [Locators avancés](locators-advanced/README.md)
 

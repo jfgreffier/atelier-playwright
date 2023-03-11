@@ -106,7 +106,7 @@ test('test', async ({ page }) => {
 Quelles différences avec les sélecteurs ?
 
 ---
-Solution
+## Solution
 ```ts
 import { test } from '@playwright/test';
 
