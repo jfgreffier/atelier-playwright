@@ -18,4 +18,4 @@ Dans cette session, vous allez apprendre :
 6. [Débugger](débugger/README.md)
 7. [Locators avancés](locators-advanced/README.md)
 
-[Ressources en français](ressources/README.md)
+[Ressources en français](https://github.com/jfgreffier/incroyable-playwright)
